@@ -114,3 +114,4 @@ public class week6 {
 	
 }
 		
+// please see if you can avoid while (true)
